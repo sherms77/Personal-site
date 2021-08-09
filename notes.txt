@@ -1,3 +1,10 @@
 # LINKS
+1. Project plan: https://github.com/users/sherms77/projects/6 
 
 # NOTES: DESCENDING ORDER
+090821: Finished layout. Started navbar.
+020821: 
+    - Created local and GitHub repos. 
+    - Did first commit to GitHub repo. 
+    - Created project plan.
+    - Worked on layout.

@@ -1,0 +1,42 @@
+main deisgn: https://codepen.io/denislav99/full/LNvdNJ
+main background color: #458B74;
+
+Navbar:
+    - Home
+    - About
+    - Projects
+    - Contact
+
+Home:
+Use a background image
+    - Name: Sherman Bernard
+    - Title: Web developer
+    - Display these icons horizontally: Twitter, GitHub and LinkedIn
+
+About:
+Hi, I'm Sherman. I'm an aspiring web developer who's passionate about problem solving and willing to learn new things.
+I'm learning these technologies.
+
+* show these in a row of five icons horizontally.
+
+    - HTML5
+    - CSS3
+    - Python
+    - SQL
+    - Git
+    - GitHub
+
+Projects:
+    - Tiles with projects (use screenshots in tiles)
+    - Create six tiles
+    - Only add technical doc page as working project
+    - Add codepen projects as placeholders
+    - Link to GitHub
+
+Contact
+    - Email
+    - Phone number
+    - LinkedIn
+
+Footer:
+    - Built by Sherman Bernard
