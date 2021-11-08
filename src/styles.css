@@ -3,7 +3,7 @@ html {
 }
 
 .navbar {
-    position: fixed;
+    position: sticky; /*Used position sticky instead of fixed to prevent navbar overlapping elements below it.*/
     display: flex;
     align-items: center;
     justify-content: flex-end;
