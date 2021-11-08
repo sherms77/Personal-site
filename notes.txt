@@ -2,6 +2,7 @@
 1. Project plan: https://github.com/users/sherms77/projects/6 
 
 # NOTES: DESCENDING ORDER
+081121: Improved semantics. Used <nav> tags for nav bar.
 090821: Finished layout. Started navbar.
 020821: 
     - Created local and GitHub repos. 
