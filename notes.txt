@@ -1,7 +1,9 @@
 # LINKS
 1. Project plan: https://github.com/users/sherms77/projects/6 
+2. Example site: https://pokecoder.netlify.app/index.html 
 
 # NOTES: DESCENDING ORDER
+221221: Added example site to links section. Point 2.
 081121: Improved semantics. Used <nav> tags for nav bar.
 090821: Finished layout. Started navbar.
 020821: 
